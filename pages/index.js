@@ -9,6 +9,11 @@ export default function Home() {
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
+    
+      <body>
+        <style>body {background-image: url('https://pbs.twimg.com/media/DsYI2P8WkAA4baz.jpg');}
+        </style>
+      </body>
 
       <main>
         <Header title="Welcome to my meowzeristic life changing App!" />
